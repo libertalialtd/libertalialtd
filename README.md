@@ -1,4 +1,6 @@
-<p align="center"><img width="400" src='libertalia.svg'></p>
+### Hi there 👋
+
+<p><img src='libertalia.svg'><br><img src='libertalia-white.svg'></p>
 
 <!--
 **libertalialtd/libertalialtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
