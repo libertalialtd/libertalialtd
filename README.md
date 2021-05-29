@@ -3,9 +3,9 @@
 
 
 
- <p><a target="_blank" href="https://github.com/libertalialtd/va-zone/blob/master/README.md#readme"><img src="flight-vat.png" width="500px"/></a><br>
+ <p><a target="_blank" href="https://github.com/libertalialtd/va-zone#readme"><img src="flight-vat.png" width="500px"/></a><br>
 
-  > <a href="https://github.com/libertalialtd/va-zone/blob/master/README.md#readme"><img src='church.gif' width="480px"/><h3><code>.va Vatican (Holy See) ccTLD Zone Data</code></h3></a><i>Discover the depths of the only ccTLD operated by a religion in this zone data archive.</i>
+  > <a href="https://github.com/libertalialtd/va-zone#readme"><img src='church.gif' width="480px"/><h3><code>.va Vatican (Holy See) ccTLD Zone Data</code></h3></a><i>Discover the depths of the only ccTLD operated by a religion in this zone data archive.</i>
  
 
    </p>
