@@ -9,3 +9,7 @@
  
 
    </p>
+ <p><a target="_blank" href="https://github.com/libertalialtd/trusty-resolvers#readme"><img src="flight-vat.png" width="500px"/></a><br>
+
+  > <a href="https://github.com/libertalialtd/trusty-resolvers#readme"><img src='indy.jpg' width="480px"/><h3><code>Indiana Json's Trusty Resolvers</code></h3></a><i>You need trustworthy resolvers when traveling the net, Indy has you covered.</i>
+   </p>
