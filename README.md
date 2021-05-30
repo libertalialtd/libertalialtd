@@ -1,5 +1,5 @@
 
-<h1><div align="center"><code>Where would you like to travel today?</code></div><br><a href="#"><img src='rainforest.gif' alt="Artist Unknown"/></a></h1>
+<h1><div align="center"><code>Where would you like to travel today?</code></div><br><!--<a href="#"><img src='rainforest.gif' alt="Artist Unknown"/></a>--></h1>
 
 
 
