@@ -1,5 +1,5 @@
 
-<h1><div align="center"><code>Where would you like to travel today?</code></div><br><a href="#"><img src='rainforest.gif' alt="Artist Unknown"/></a></h1>
+<h1><div align="center"><code>Where would you like to travel today?</code></div><!--<br><a href="#"><img src='rainforest.gif' alt="Artist Unknown"/></a>--></h1>
 
 
 
@@ -11,5 +11,5 @@
    </p>
  <p><a target="_blank" href="https://github.com/libertalialtd/trusty-resolvers#readme"><img src="flight-dns.png" width="527px"/></a><br>
 
-  > <a href="https://github.com/libertalialtd/trusty-resolvers#readme"><img src='indy.jpg' width="480px"/><h3><code>Indiana Json's Trusty Resolvers</code></h3></a><i>You need trustworthy resolvers when traveling the net, Indy has you covered.</i>
+  > <a href="https://github.com/libertalialtd/trusty-resolvers#readme"><img src='indy2.jpg' width="480px"/><h3><code>Indiana Json's Trusty Resolvers</code></h3></a><i>You need trustworthy resolvers when traveling the net, Indy has you covered.</i>
    </p>
